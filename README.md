@@ -1,4 +1,4 @@
-Title: Button Manager Application
+Button Manager Application
 
 Description:
 This Button Manager application is a versatile Python desktop utility designed to streamline and automate tasks through customizable buttons. The user-friendly interface allows users to configure buttons with specific programs, hotkeys, and colors, enhancing efficiency in their daily workflow.
